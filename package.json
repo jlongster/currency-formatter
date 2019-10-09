@@ -26,7 +26,7 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "accounting": "jlongster/accounting",
+    "accounting": "jlongster/accounting.js",
     "locale-currency": "0.0.2",
     "object-assign": "^4.1.1"
   }
